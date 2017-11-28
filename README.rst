@@ -36,7 +36,7 @@ A plataforma `FIWARE <https://www.fiware.org>`__ apresenta um ambiente baseado n
 
 Esses conjuntos de funcionalidades são agrupados na plataforma em forma de capítulos, sendo cada um deles composto por um conjunto de GEs (Generic Enablers), nomenclatura dada a componentes dentro da plataforma.
 
-Em relação a aplicações IoT, a plataforma fornece GEs que permitem que "coisas" se tornem recursos de contexto disponíveis, pesquisáveis, acessíveis e utilizáveis, possibilitando a interação de Apps FIWARE com objetos do mundo real. As "coisas" representam qualquer objeto físico, organismo vivo, pessoa ou conceito de interesse a partir da perspectiva de uma aplicação e seus parâmetros são totalmente ou parcialmente atrelados a sensores, atuadores (ou uma combinação desses). A plataforma ajuda a abstrair a complexidade e alta fragmentação de tecnologias IoT e de cenários de implantação.
+Em relação a aplicações IoT, a plataforma fornece GEs que permitem que "coisas" se tornem recursos de contexto disponíveis, pesquisáveis, acessíveis e utilizáveis, possibilitando a interação de Apps FIWARE com objetos do mundo real. As "coisas" representam qualquer objeto físico, organismo vivo, pessoa ou conceito de interesse a partir da perspectiva de uma aplicação e seus parâmetros são totalmente ou parcialmente atrelados a sensores, atuadores (ou uma combinação desses). A plataforma ajuda a abstrair a complexidade e a alta fragmentação de tecnologias IoT e de cenários de implantação.
 
 
 Entender alguns conceitos é fundamental para a utilização das APIs FIWARE e, consequentemente, ferramentas que façam uso dessas. Logo, abaixo serão definidos alguns conceitos que facilitam a compreensão do que será apresentado durante esse tutorial.
